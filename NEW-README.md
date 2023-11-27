@@ -15,4 +15,4 @@ In this story, Socrates has been convicted of corrupting the youth of Athens and
 <br>
 Socrates uses his death as a final lesson to his pupils rather than fleeing when the opportunity arises, and faces it calmly.
 <br>
-The _Phaedo_ decpicts the death of Socrates and is also Plato's fourth and last dialogue to detail the philosopher's final days, which is also detailed in _Euthyphro_, _Apology_, and _Crito_. 
+The _Phaedo_ decpicts the death of Socrates and is also Plato's fourth and last dialogue to detail the philosopher's final days, which is also detailed in _Euthyphro_, _Apology_, and _Crito_.
