@@ -3,7 +3,7 @@ This repository was made by Sana Munawar as part of my Computing for Bioinformat
 
 ## The Death of Socrates
 
-![The_Death_of_Socrates](https://github.com/SanaMunawar-007/Intro_to_GIT-CBI/assets/146914665/9d2c1827-bbca-4201-859b-f1880fab4305)
+![Death of Socrates](https://github.com/SINES-NUST/intro-to-git-SanaMunawar-007/assets/146914665/68702c65-bc56-4928-9da4-b5c202f4b6cd)
 <br>
 _French: La Mort de Socrate_
 <br>
